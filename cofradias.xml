@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<semana_santa>
+    <cofradia>
+        <nombre>Cofradía del Santo Entierro</nombre>
+        <fundacion>1700</fundacion>
+        <hermanos>250</hermanos>
+        <ciudad>Sevilla</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Esperanza</nombre>
+        <fundacion>1850</fundacion>
+        <hermanos>300</hermanos>
+        <ciudad>Córdoba</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Macarena</nombre>
+        <fundacion>1595</fundacion>
+        <hermanos>500</hermanos>
+        <ciudad>Sevilla</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de los Gitanos</nombre>
+        <fundacion>1800</fundacion>
+        <hermanos>450</hermanos>
+        <ciudad>Granada</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Silencio</nombre>
+        <fundacion>1650</fundacion>
+        <hermanos>320</hermanos>
+        <ciudad>Málaga</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de Jesús Nazareno</nombre>
+        <fundacion>1725</fundacion>
+        <hermanos>400</hermanos>
+        <ciudad>Valladolid</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Soledad</nombre>
+        <fundacion>1600</fundacion>
+        <hermanos>350</hermanos>
+        <ciudad>Burgos</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de San Gonzalo</nombre>
+        <fundacion>1942</fundacion>
+        <hermanos>800</hermanos>
+        <ciudad>Sevilla</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Cristo del Perdón</nombre>
+        <fundacion>1805</fundacion>
+        <hermanos>220</hermanos>
+        <ciudad>Murcia</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Pasión</nombre>
+        <fundacion>1780</fundacion>
+        <hermanos>280</hermanos>
+        <ciudad>Zaragoza</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Virgen de la Piedad</nombre>
+        <fundacion>1900</fundacion>
+        <hermanos>150</hermanos>
+        <ciudad>Toledo</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Gran Poder</nombre>
+        <fundacion>1605</fundacion>
+        <hermanos>1000</hermanos>
+        <ciudad>Sevilla</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Caridad</nombre>
+        <fundacion>1750</fundacion>
+        <hermanos>270</hermanos>
+        <ciudad>Cádiz</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Cristo de la Sangre</nombre>
+        <fundacion>1680</fundacion>
+        <hermanos>330</hermanos>
+        <ciudad>Albacete</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Cristo Yacente</nombre>
+        <fundacion>1550</fundacion>
+        <hermanos>200</hermanos>
+        <ciudad>Salamanca</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de Nuestra Señora de los Dolores</nombre>
+        <fundacion>1950</fundacion>
+        <hermanos>500</hermanos>
+        <ciudad>Madrid</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Santa Cena</nombre>
+        <fundacion>1980</fundacion>
+        <hermanos>350</hermanos>
+        <ciudad>Jaén</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Oración en el Huerto</nombre>
+        <fundacion>1920</fundacion>
+        <hermanos>270</hermanos>
+        <ciudad>Huelva</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía de la Santa Faz</nombre>
+        <fundacion>1580</fundacion>
+        <hermanos>600</hermanos>
+        <ciudad>Alicante</ciudad>
+    </cofradia>
+    <cofradia>
+        <nombre>Cofradía del Resucitado</nombre>
+        <fundacion>2000</fundacion>
+        <hermanos>450</hermanos>
+        <ciudad>Barcelona</ciudad>
+    </cofradia>
+</semana_santa>
